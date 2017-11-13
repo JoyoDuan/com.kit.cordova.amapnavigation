@@ -59,7 +59,7 @@
       <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"/>
       <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION"/>
     </config-file>
-    <!--  如果使用了定位插件https://github.com/yanxiaojun617/com.kit.cordova.amaplocation.并在定位插件中配置了android key.
+    <!--  如果使用了定位插件https://github.com/JoyoDuan/com.kit.cordova.amaplocation.并在定位插件中配置了android key.
        该处则不需要再进行配置android key-->
     <!-- <config-file target="AndroidManifest.xml" parent="/manifest/application">
        <meta-data android:name="com.amap.api.v2.apikey" android:value="这里填您申请的高德地图android key"/>
